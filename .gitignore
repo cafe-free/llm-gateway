@@ -202,4 +202,6 @@ dist
 .react-router/
 /build/
 
+.idea/
 sql/
+.vercel
